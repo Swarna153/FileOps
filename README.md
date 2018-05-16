@@ -1,7 +1,7 @@
 # FileOps
 
 # Configure Email Settings
-We configure Gmail SMTP server to send emails. Please use gmail credentials. Follow below steps to set properties and get email updates of files added in last one hour.
+Used Gmail SMTP configurations to send emails. Please use gmail credentials. Follow below steps to set properties and get email updates of files added in last one hour.
 
 1) Open file /src/main/resources/application.properties
 2) Observe line email.to=XXXX@XX.com. Email updates will be recieved to this email address. Replace the email XXXX@XX.com with a valid email.
