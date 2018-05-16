@@ -59,15 +59,15 @@ Scheduler
 ---------
 If the email configuration is done. Then for every one hour an email will be recieved with files saved in last one hour in the below format,
 
-/**
+----------------------------------------------------------------------------------------------
 Hi,
         In last one hour application stored  3files.
 
-
 Files List:
 
-ID      FILE NAME                                               CREATED DATE
-0       someFile.pdf                                           2018-05-17 00:29:25.078
-1       someFile.pdf                                           2018-05-17 00:29:27.953
-2       someFile.pdf                                           2018-05-17 00:29:28.958
-*/
+ID&nbsp;&nbsp;&nbsp;&nbsp;FILE NAME&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CREATED DATE</br>
+0&nbsp;&nbsp;&nbsp;&nbsp;someFile.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018-05-17 00:29:25.078</br>
+1&nbsp;&nbsp;&nbsp;&nbsp;someFile.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018-05-17 00:29:27.953</br>
+2&nbsp;&nbsp;&nbsp;&nbsp;someFile.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018-05-17 00:29:28.958</br>
+
+-----------------------------------------------------------------------------------------------
